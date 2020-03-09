@@ -1,0 +1,15 @@
+#cont{
+  display: block;
+  width: 100%;
+
+
+}
+#left{
+  width: 30rem;
+  margin-left:250px;
+}
+#right{
+  width: 30rem;
+  margin-left:850px;
+  margin-top: -530px
+}
