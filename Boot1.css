@@ -13,3 +13,12 @@
   margin-left:850px;
   margin-top: -530px
 }
+#con{
+  height: 600px;
+  align-items: center;
+}
+#full{
+  width: 80%;
+  height: 500px;
+
+}
