@@ -22,3 +22,24 @@
   height: 500px;
 
 }
+#rw{
+  background-color: FireBrick;
+  width: 95%;
+  height: 300px;
+  margin-left: 200px;
+  margin-bottom: 30px;
+}
+#cl1{
+  background-color: gray;
+  width: 450px;
+  height: 300px;
+  margin-left: 200px;
+
+}
+#cl2{
+  background-color: gray;
+  width: 450px;
+  height: 300px;
+  margin-left: 20px;
+
+}

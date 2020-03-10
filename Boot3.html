@@ -2,10 +2,10 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title> One Box-Fill window</title>
+    <title>3Box</title>
     <link rel="stylesheet" href="node_modules\bootstrap\dist\css\bootstrap.css" >
+      <link rel="stylesheet" href="node_modules\bootstrap\dist\css\bootstrap-grid.css" >
       <link rel="stylesheet" href="Boot1.css" >
-
   </head>
   <body>
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
@@ -43,12 +43,20 @@
         </form>
       </div>
   </nav>
+  <div class="spinner-grow text-dark" role="status">
+      <span class="sr-only">Loading...</span>
+  </div>
+
+  <div class="row">
+    <div class="col-lg-8" id="rw">1</div>
+  </div>
+  <div class="row">
+    <div class="col-lg-4" id="cl1">1 of 2</div>
+    <div class="col-lg-4" id="cl2">2 of 2</div>
+  </div>
 
 
-   <div class="container p-5 my-4 bg-dark text-white rounded" id="con">
 
-     <div class="panel-body "><img src="imm.jpg" class="img-rounded" id="full" alt="Cinque Terre"></div>
 
-   </div>
   </body>
 </html>
