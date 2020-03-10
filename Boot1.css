@@ -28,12 +28,14 @@
   height: 300px;
   margin-left: 200px;
   margin-bottom: 30px;
+  border-radius: 10px;
 }
 #cl1{
   background-color: gray;
   width: 450px;
   height: 300px;
   margin-left: 200px;
+  border-radius: 10px;
 
 }
 #cl2{
@@ -41,5 +43,77 @@
   width: 450px;
   height: 300px;
   margin-left: 20px;
+  border-radius: 10px;
 
+}
+#cl3{
+  background-color: green;
+  width: 450px;
+  height: 300px;
+  margin-left: 200px;
+  margin-top: 30px;
+  border-radius: 10px;
+
+}
+#cl4{
+  background-color: green;
+  width: 450px;
+  height: 300px;
+  margin-left: 20px;
+  margin-top: 30px;
+
+  border-radius: 10px;
+
+}
+#rw1{
+  background-color: FireBrick;
+  width: 95%;
+  height: 300px;
+  margin-top: 20px;
+  margin-left: 200px;
+  margin-bottom: 30px;
+  border-radius: 10px;
+}
+#cl5{
+  background-color: #20c997;
+  width: 250px;
+  height: 800px;
+  margin-left: 20px;
+  margin-top: 30px;
+
+  border-radius: 10px;
+}
+#cl6{
+  background-color: #20c997;
+  width: 250px;
+  height: 800px;
+  margin-left: 20px;
+  margin-top: 30px;
+
+  border-radius: 10px;
+}
+#cl7{
+  background-color: #20c997;
+  width: 250px;
+  height: 800px;
+  margin-left: 20px;
+  margin-top: 30px;
+
+  border-radius: 10px;
+}
+#cl8{
+  background-color: gray;
+
+  height: 600px;
+  margin-top: 20px;
+  margin-left: 150px;
+  border-radius: 10px;
+}
+#cl9{
+  background-color: gray;
+
+  height: 600px;
+  margin-top: 20px;
+  margin-left: 20px;
+  border-radius: 10px;
 }
